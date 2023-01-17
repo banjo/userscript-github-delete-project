@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       github-delete-project
 // @namespace  npm/vite-plugin-monkey
-// @version    0.0.0
+// @version    0.0.1
 // @author     monkey
 // @icon       https://vitejs.dev/logo.svg
 // @match      https://github.com/*
